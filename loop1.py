@@ -1,3 +1,3 @@
-a = "sorrry"
-for i in range(67000):
+a = "Wanna <3 SwamPyae"
+for i in range(670000000):
     print(f"[{i}] {a}")
