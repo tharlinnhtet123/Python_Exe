@@ -18,4 +18,4 @@ add = {} #set
 add = {"a":1, "b":2} #dictionary
 
 colors = ["red","yellow","green"]
-print(colors[0,1,2])
+print(colors[2])
